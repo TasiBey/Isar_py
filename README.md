@@ -1,3 +1,3 @@
 # Isar_py
 
-# Isardaki piton ile data sâyıns dersinde yaptığım debelenmeler
+Isardaki piton ile data sâyıns dersinde yaptığım debelenmeler
